@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=🙋🏻‍♂️Jang%20Eunsu&fontSize=50&animation=fadeIn" />
+     <img src="https://capsule-render.vercel.app/api?type=soft&color=2E4172&height=200&section=header&text=🙋🏻‍♂️Jang%20Eunsu&fontSize=50&fontColor=7886AB&animation=fadeIn" />
   </a>
 </div>
 <br />
@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td align="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=heyroocoke&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=heyroocoke&count_private=true&show_icons=true&theme=buefy&title_color=2E4172&hide_border=true" align="left" style="width: 100%" />
       </td>
       <td align="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyroocoke&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
