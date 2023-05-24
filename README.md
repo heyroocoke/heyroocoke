@@ -24,7 +24,7 @@
 
 <p align="center"><b>📫 Blog</b></p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>&nbsp
+  <a href="https://jangeunsu-notion-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-lightgrey"/></a>&nbsp
 </p>
 <br />
 
