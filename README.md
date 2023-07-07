@@ -24,7 +24,7 @@
 
 <p align="center"><b>📫 Blog</b></p>
 <p align="center">
-  <a href="https://jangeunsu-notion-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-lightgrey"/></a>&nbsp
+  <a href="https://eunsulog.vercel.app/"><img src="https://img.shields.io/badge/Blog-lightgrey"/></a>&nbsp
 </p>
 <br />
 
